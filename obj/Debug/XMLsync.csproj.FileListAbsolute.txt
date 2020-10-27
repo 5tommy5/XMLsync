@@ -1,0 +1,10 @@
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\bin\Debug\XMLsync.exe.config
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\bin\Debug\XMLsync.exe
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\bin\Debug\XMLsync.pdb
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.csprojAssemblyReference.cache
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.Form1.resources
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.Properties.Resources.resources
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.csproj.GenerateResource.cache
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.csproj.CoreCompileInputs.cache
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.exe
+C:\Users\toxam\Desktop\Тестовые задания\XMLsync\obj\Debug\XMLsync.pdb
